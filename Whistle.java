@@ -1,4 +1,4 @@
-// Whistle.java
+**Whistle.java**
 public class Whistle {
     private String sound;
     
@@ -11,8 +11,9 @@ public class Whistle {
     }
 }
 
-// ------------------------------------------------
-// Main.java
+________________________________________________________________________
+    
+**Main.java**
 public class Main {
 
     public static void main(String[] args) {
