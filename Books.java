@@ -14,19 +14,12 @@ public class Book {
         return title;
     }
     
-    public int getPages(){
-        return pages;
-    }
-    
-    public int getYear(){
-        return year;
-    }
-    
     @Override
     public String toString() {
         return this.title + ", " + this.pages + " pages, " + this.year;
     }
 }
+
 ____________________________________________________________________________
 
 
